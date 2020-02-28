@@ -1,3 +1,3 @@
-# author-attribution
+# authorship-attribution
 
-Author attribution project with Reuters 50-50 dataset.
+Authorship attribution project with Reuters 50-50 dataset.
